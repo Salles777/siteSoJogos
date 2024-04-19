@@ -1,5 +1,25 @@
+*:target h2 {
+    background-color: yellow;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+article {
+    border-bottom: 1px solid #000;
+    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+}
+
 .w-100 {
     width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 760px;
 }
 
 .mainHeader {
