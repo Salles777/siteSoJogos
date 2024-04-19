@@ -23,3 +23,14 @@
     text-decoration: none;
     width: 200px;
 }
+
+.mainFooter {
+    background-color: #13131c;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: #fff;;
+}
